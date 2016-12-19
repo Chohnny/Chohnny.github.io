@@ -6,6 +6,10 @@ div {
 	font: Helvetica;
 }
 
+img {
+	width: 400px;
+}
+
 div#first-section {
 	color: #999999;
 }
